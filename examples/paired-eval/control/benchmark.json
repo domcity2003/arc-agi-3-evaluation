@@ -1,0 +1,7 @@
+{
+  "game_runs": [
+    {"game_id": "sample-a", "state": "gave_up", "final_score": 20, "final_wallclock_seconds": 60, "levels_completed": 2, "actions_per_level": [6, 11]},
+    {"game_id": "sample-b", "state": "gave_up", "final_score": 20, "final_wallclock_seconds": 60, "levels_completed": 2, "actions_per_level": [5, 9]},
+    {"game_id": "sample-c", "state": "gave_up", "final_score": 20, "final_wallclock_seconds": 60, "levels_completed": 2, "actions_per_level": [8, 10]}
+  ]
+}

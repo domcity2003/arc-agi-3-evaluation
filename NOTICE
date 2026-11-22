@@ -1,0 +1,5 @@
+This project builds on openly published work, and credit belongs to its authors.
+
+- The serving stack, base game harness and published configuration the agent runs on come from Daniel Franzen's Apache-2.0 release (github.com/da-fr/arc-agi-3-solution), itself a fork of the Duck harness from Tufa Labs. None of that code is copied into this repository; `src/` patches it at run time.
+- `src/stagnation_recovery.py` follows a public fresh-review experiment by heliosli; the threshold was chosen from my own traces.
+- ARC-AGI-3 and its scoring methodology belong to the ARC Prize Foundation.
